@@ -14,7 +14,7 @@ Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CS
 
 A continuación, puedes ver cómo debería lucir tu proyecto final (incluye capturas relevantes del diseño):
 
-![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/credit-cards-display/refs/heads/main/screenshots/credit-card-display.jpg)
+![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/credit-cards-display/refs/heads/main/screenshots/credit-cards.jpg)
 
 ---
 
